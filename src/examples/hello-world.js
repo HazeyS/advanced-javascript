@@ -1,7 +1,7 @@
 /* Hello world - using a pure component */
 
 const NestedComponent = () => (
-  <h1>Hello World!</h1>
+  <h1>Hello Hailey!</h1>
 );
 
 const renderHelloWorld = () => {
