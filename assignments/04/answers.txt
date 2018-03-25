@@ -1,0 +1,19 @@
+Assignment 4 answers
+
+
+1. pokemon/charmander
+
+2. 
+_________________________________________________________________
+|  ABILITY   |         DESCRIPTION            |   DATA TYPE     |
+|---------------------------------------------------------------| 
+|   Height   | the hight of this pokemon      |     integer     |
+|---------------------------------------------------------------|                      | is_default | set for exactly one pokemon    |     boolean     |
+|            | used as the default for each   |                 |
+|            | species.                       |                 |
+|---------------------------------------------------------------|
+| weight     |the weight of this pokemon      |     integer     |                     
+-----------------------------------------------------------------
+
+3. 
+http://pokeapi.co/media/sprites/pokemon/back/shiny/female/12.png
